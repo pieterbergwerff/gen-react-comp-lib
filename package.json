@@ -1,0 +1,8 @@
+{
+  "name": "gen-react-comp-lib",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:pieterbergwerff/gen-react-comp-lib.git",
+  "author": "Pieter Bergwerff <p.bergwerff@studiostaat.nl>",
+  "license": "MIT"
+}
